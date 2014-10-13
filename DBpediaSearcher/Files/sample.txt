@@ -1,0 +1,39 @@
+<http://dbpedia.org/resource/Linguistics> <http://dbpedia.org/property/jazyk> "en"@cs .
+<http://dbpedia.org/resource/Linguistics> <http://dbpedia.org/property/èlánek> "Linguistics"@cs .
+<http://dbpedia.org/resource/Linguistics> <http://dbpedia.org/property/revize> "333056845"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Moral_realism> <http://dbpedia.org/property/jazyk> "en"@cs .
+<http://dbpedia.org/resource/Moral_realism> <http://dbpedia.org/property/èlánek> "Moral realism"@cs .
+<http://dbpedia.org/resource/Moral_realism> <http://dbpedia.org/property/revize> "195684113"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Physics> <http://dbpedia.org/property/pøíjmení> "Hofmann Jaroslav, Urbanová Marie"@cs .
+<http://dbpedia.org/resource/Physics> <http://dbpedia.org/property/titul> "Fyzika I, verze 1.0"@cs .
+<http://dbpedia.org/resource/Physics> <http://dbpedia.org/property/url> <http://vydavatelstvi.vscht.cz/knihy/uid_ekniha-001/pages-img/> .
+<http://dbpedia.org/resource/Physics> <http://dbpedia.org/property/datumVydání> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Physics> <http://dbpedia.org/property/vydavatel> "VŠCHT v Praze"@cs .
+<http://dbpedia.org/resource/Metal> <http://dbpedia.org/property/pøíjmení> "Vojtìch Dalibor"@cs .
+<http://dbpedia.org/resource/Metal> <http://dbpedia.org/property/titul> "Kovové materiály"@cs .
+<http://dbpedia.org/resource/Metal> <http://dbpedia.org/property/url> <http://vydavatelstvi.vscht.cz/knihy/uid_isbn-80-7080-600-1/pages-img/> .
+<http://dbpedia.org/resource/Metal> <http://dbpedia.org/property/datumVydání> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Metal> <http://dbpedia.org/property/isbn> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Metal> <http://dbpedia.org/property/vydavatel> "VŠCHT v Praze"@cs .
+<http://dbpedia.org/resource/Mathematics> <http://dbpedia.org/property/pøíjmení> "Pavlíková Pavla, Schmidt Oskar"@cs .
+<http://dbpedia.org/resource/Mathematics> <http://dbpedia.org/property/titul> "Základy matematiky, 1. vydání"@cs .
+<http://dbpedia.org/resource/Mathematics> <http://dbpedia.org/property/url> <http://vydavatelstvi.vscht.cz/knihy/uid_isbn-80-7080-615-X/pages-img/> .
+<http://dbpedia.org/resource/Mathematics> <http://dbpedia.org/property/datumVydání> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mathematics> <http://dbpedia.org/property/isbn> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mathematics> <http://dbpedia.org/property/vydavatel> "VŠCHT v Praze"@cs .
+<http://dbpedia.org/resource/Biology> <http://dbpedia.org/property/pøíjmení> "Benda Vladimír, Babùrek Ivan, Kotrba Pavel"@cs .
+<http://dbpedia.org/resource/Biology> <http://dbpedia.org/property/titul> "Základy biologie, 1. vydání"@cs .
+<http://dbpedia.org/resource/Biology> <http://dbpedia.org/property/url> <http://vydavatelstvi.vscht.cz/knihy/uid_isbn-80-7080-587-0/pages-img/> .
+<http://dbpedia.org/resource/Biology> <http://dbpedia.org/property/datumVydání> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Biology> <http://dbpedia.org/property/isbn> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Biology> <http://dbpedia.org/property/vydavatel> "VŠCHT v Praze"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/pøíjmení> "Petráèková"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/jméno> "Vìra"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/pøíjmení> "Kraus"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/jméno> "Jiøí"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/odkazNaAutora> "Jiøí Kraus"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/spoluautoøi> "a kol."@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/rok> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/titul> "Akademický slovník cizích slov A-Ž"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/vydavatel> "Academia"@cs .
+<http://dbpedia.org/resource/Terminology> <http://dbpedia.org/property/místo> "Praha"@cs .
