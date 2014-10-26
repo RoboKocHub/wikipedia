@@ -24,10 +24,15 @@ namespace Infrastructure.Model
     public class Link {
         public string LinkType { get; set; }
         public string LinkName { get; set; }
+        public List<DisambiguationLink> DisambiguationLinkList { get; set; }
     }
 
 
 
-    
+    public class DisambiguationLink {
+        public string Name {get;set;}
+        public string Type {get;set;}
+
+    }
 
 }

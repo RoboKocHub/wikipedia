@@ -23,8 +23,8 @@ namespace DBpediaSearcher
             string FilePath = @"C:\D\Skola\STUBA\2roc\VI\Project\\DBpediaSearcher\Files\";
 
             FileOperation fo = new Infrastructure.FileOperation();
-          
-             richTextBox1.Text = fo.ParseToXml(@"(?<http>\w+):\/\/(?<dbpedia>[\w@][\w.:@]+)\/?[\w\.?=%&=\-@/$,]*", FilePath + fileName.Text);
+
+            richTextBox1.Text = fo.ParseToXml(@"(?<http>\w+):\/\/(?<dbpedia>[\w@][\w.:@]+)\/?[\w\.?()_=%&=\-@/$,]*", FilePath + fileName.Text, true);
            
             
             

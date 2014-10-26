@@ -13,7 +13,7 @@ namespace UnitTest
         public void ParseFileTest()
         {
             var fo = new FileOperation();
-            var output = fo.ParseToXml(@"(?<http>\w+):\/\/(?<dbpedia>[\w@][\w.:@]+)\/?[\w\.?=%&=\-@/$,]*", @"C:\D\Skola\STUBA\2roc\VI\Project\\DBpediaSearcher\Files\sample.txt");
+            var output = fo.ParseToXml(@"(?<http>\w+):\/\/(?<dbpedia>[\w@][\w.:@]+)\/?[\w\.?=%&=\-@/$,]*", @"C:\D\Skola\STUBA\2roc\VI\Project\\DBpediaSearcher\Files\sample.txt", true);
             Assert.IsTrue(!string.IsNullOrEmpty(output));
         }
     }
