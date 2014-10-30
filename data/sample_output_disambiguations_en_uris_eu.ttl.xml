@@ -5,34 +5,33 @@
       <Name>http://dbpedia.org/resource/Bidache</Name>
       <LinkList>
         <Link>
+          <LinkType><http://dbpedia.org/ontology/wikiPageDisambiguates></LinkType>
+          <LinkName>http://dbpedia.org/resource/Anglet</LinkName>
+        </Link>
+		<Link>
           <LinkType>http://dbpedia.org/ontology/wikiPageWikiLink</LinkType>
-          <LinkName>http://dbpedia.org/resource/Angle_(disambiguation)</LinkName>
-          <DisambiguationLinkList>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Anglet</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Right_angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Dihedral_angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-          </DisambiguationLinkList>
+          <LinkName><http://dbpedia.org/resource/Agriculture></LinkName>
+        </Link>
+		<Link>
+          <LinkType>http://dbpedia.org/ontology/wikiPageWikiLink</LinkType>
+          <LinkName><http://dbpedia.org/resource/Gascony></LinkName>
+        </Link>
+      </LinkList>
+    </Article>
+	<Article>
+      <Name><http://dbpedia.org/resource/Beatification></Name>
+      <LinkList>
+        <Link>
+          <LinkType>http://dbpedia.org/ontology/wikiPageWikiLink</LinkType>
+          <LinkName><http://dbpedia.org/resource/Saint></LinkName>
+        </Link>
+		<Link>
+          <LinkType>http://dbpedia.org/ontology/wikiPageWikiLink</LinkType>
+          <LinkName><http://dbpedia.org/resource/Latin></LinkName>
+        </Link>
+		<Link>
+          <LinkType><http://dbpedia.org/ontology/wikiPageDisambiguates></LinkType>
+          <LinkName><http://dbpedia.org/resource/Royal_and_noble_ranks></LinkName>
         </Link>
       </LinkList>
     </Article>
