@@ -1,6 +1,0 @@
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\Infrastructure\bin\Debug\Infrastructure.dll.config
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\Infrastructure\bin\Debug\Infrastructure.dll
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\Infrastructure\bin\Debug\Infrastructure.pdb
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\Infrastructure\obj\Debug\Infrastructure.dll
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\Infrastructure\obj\Debug\Infrastructure.pdb
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache

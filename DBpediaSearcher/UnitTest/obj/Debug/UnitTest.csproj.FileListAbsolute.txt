@@ -1,7 +1,0 @@
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\UnitTest\bin\Debug\UnitTest.dll
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\UnitTest\bin\Debug\UnitTest.pdb
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\UnitTest\bin\Debug\Infrastructure.dll
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\UnitTest\bin\Debug\Infrastructure.pdb
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\UnitTest\obj\Debug\UnitTest.dll
-C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\UnitTest\obj\Debug\UnitTest.pdb
