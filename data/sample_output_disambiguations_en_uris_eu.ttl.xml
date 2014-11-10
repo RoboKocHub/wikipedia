@@ -7,31 +7,46 @@
         <Link>
           <LinkType>http://dbpedia.org/ontology/wikiPageWikiLink</LinkType>
           <LinkName>http://dbpedia.org/resource/Angle_(disambiguation)</LinkName>
+		  <LinkKeywordList>
+		  <LinkKeyWord>Town</LinkKeyWord>
+		  <LinkKeyWord>Pyrénées-Atlantiques</LinkKeyWord>
+		  </LinkKeywordLIst>
           <DisambiguationLinkList>
             <DisambiguationLink>
               <Name>http://dbpedia.org/resource/Anglet</Name>
               <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
+			   <DisambiguationKeyWord>Town</DisambiguationKeyWord>
+			   <DisambiguationKeyWord>Pyrénées-Atlantiques</DisambiguationKeyWord>
+			   <DisambiguationKeyWord>Region</DisambiguationKeyWord>
+			   <DisambiguationKeyWord>Country</DisambiguationKeyWord>
+            </DisambiguationLink>           
+          </DisambiguationLinkList>
+        </Link>
+      </LinkList>
+    </Article>
+	<Article>
+      <Name>http://dbpedia.org/resource/Cleopatra</Name>
+      <LinkList>
+        <Link>
+          <LinkType>http://dbpedia.org/ontology/wikiPageWikiLink</LinkType>
+          <LinkName>http://dbpedia.org/resource/Cleopatra</LinkName>
+		  <LinkKeywordList>
+		  <LinkKeyWord>Pharaohs</LinkKeyWord>
+		  <LinkKeyWord>Ptolemaic_dynasty</LinkKeyWord>
+		  <LinkKeyWord>Ancient_Egypt</LinkKeyWord>
+		  <LinkKeyWord>Suicides</LinkKeyWord>
+		  </LinkKeywordLIst>
+          <DisambiguationLinkList>
             <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Right_angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Dihedral_angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
-            <DisambiguationLink>
-              <Name>http://dbpedia.org/resource/Angle</Name>
-              <Type>http://dbpedia.org/resource/Angle_(disambiguation)</Type>
-            </DisambiguationLink>
+              <Name>http://dbpedia.org/ontology/wikiPageDisambiguates</Name>
+              <Type>http://dbpedia.org/resource/Cleopatra_(disambiguation)</Type>
+			   <DisambiguationKeyWord>Cleopatra_III_of_Egypt</DisambiguationKeyWord>
+			   <DisambiguationKeyWord>Cleopatra_IV_of_Egypt</DisambiguationKeyWord>
+			   <DisambiguationKeyWord>Cleopatra_V_of_Egypt</DisambiguationKeyWord>
+			   <DisambiguationKeyWord>Cleopatra_VI_of_Egypt</DisambiguationKeyWord>
+		       <DisambiguationKeyWord>Cleopatra</DisambiguationKeyWord>
+			   <DisambiguationKeyWord>216_Kleopatra</DisambiguationKeyWord>
+            </DisambiguationLink>           
           </DisambiguationLinkList>
         </Link>
       </LinkList>

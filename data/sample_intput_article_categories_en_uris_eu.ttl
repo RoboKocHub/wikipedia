@@ -56,17 +56,4 @@
 <http://dbpedia.org/resource/Libertarias> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Spanish_Civil_War_films> .
 <http://dbpedia.org/resource/Libertarias> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Films_based_on_books> .
 <http://dbpedia.org/resource/Libertarias> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:1996_films> .
-<http://dbpedia.org/resource/September_2> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cleopatra> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Egypt> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ptolemy_XIII_Theos_Philopator> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Julius_Caesar> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Julius_Caesar> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mark_Antony> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Augustus> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Rome> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/August_12> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Pharaohs> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Ptolemaic_dynasty> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Ancient_Egypt> .
-<http://dbpedia.org/resource/Cleopatra> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Suicides> .
 # completed 2014-09-01T21:08:40Z
