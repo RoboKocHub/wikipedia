@@ -25,10 +25,17 @@ namespace DBpediaSearcher
             FileOperation fo = new Infrastructure.FileOperation();
 
             richTextBox1.Text = fo.ParseToXml(@"(?<http>\w+):\/\/(?<dbpedia>[\w@][\w.:@]+)\/?[\w\.?()_=%&=\-@/$,]*", FilePath + fileName.Text, true);
-           
-            
-            
-         
+
+
+            label1.Text = fo.NotSuccessRecommendedDisLink.ToString();
+            label2.Text = fo.SuccessRecommendedDisLink.ToString();
+            label4.Text = fo.ArticleCounter.ToString();
+            label8.Text = fo.NotFindDisambiguationLink.ToString();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

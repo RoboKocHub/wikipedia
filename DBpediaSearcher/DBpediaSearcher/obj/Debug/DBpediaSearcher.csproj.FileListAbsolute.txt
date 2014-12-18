@@ -8,3 +8,4 @@ C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\DBpediaSearcher\obj\Debug\DBped
 C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\DBpediaSearcher\obj\Debug\DBpediaSearcher.csproj.GenerateResource.Cache
 C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\DBpediaSearcher\obj\Debug\DBpediaSearcher.exe
 C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\DBpediaSearcher\obj\Debug\DBpediaSearcher.pdb
+C:\D\Skola\STUBA\2roc\VI\Project\DBpediaSearcher\DBpediaSearcher\bin\Debug\DBpediaSearcher.exe.config
